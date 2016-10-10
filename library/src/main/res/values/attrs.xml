@@ -2,7 +2,7 @@
 <resources>
     <declare-styleable name="Theme">
         <!-- Default Spinner style. -->
-        <attr name="spinnerStyle" format="reference" />
+        <attr name="spinnerStyleNew" format="reference" />
         <!-- Default dropdown Spinner style. -->
         <attr name="dropDownSpinnerStyle" format="reference" />
     </declare-styleable>

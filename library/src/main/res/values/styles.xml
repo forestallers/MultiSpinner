@@ -2,16 +2,16 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 	<!-- Theme Styles -->
     <style name="Theme">
-		<item name="spinnerStyle">@android:style/Widget.Spinner</item>
+		<item name="spinnerStyleNew">@android:style/Widget.Spinner</item>
 		<item name="dropDownSpinnerStyle">@style/Widget.Spinner.DropDown</item>
 	</style>
 	<style name="Theme.Holo">
-        <item name="spinnerStyle">?android:attr/dropDownSpinnerStyle</item>
+        <item name="spinnerStyleNew">?android:attr/dropDownSpinnerStyle</item>
 		<item name="dropDownSpinnerStyle">@style/Widget.Holo.Spinner.DropDown</item>
 	</style>
 	
 	<style name="Theme.Holo.Light" parent="@android:style/Theme.Light">
-		<item name="spinnerStyle">?android:attr/dropDownSpinnerStyle</item>
+		<item name="spinnerStyleNew">?android:attr/dropDownSpinnerStyle</item>
 		<item name="dropDownSpinnerStyle">@style/Widget.Holo.Light.Spinner.DropDown</item>
 	</style>
 	
